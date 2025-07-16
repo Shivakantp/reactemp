@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactemp/static/css/main.9cc29e20.css",
-    "main.js": "/reactemp/static/js/main.81399ef3.js",
-    "static/js/453.670e15c7.chunk.js": "/reactemp/static/js/453.670e15c7.chunk.js",
-    "index.html": "/reactemp/index.html",
-    "main.9cc29e20.css.map": "/reactemp/static/css/main.9cc29e20.css.map",
-    "main.81399ef3.js.map": "/reactemp/static/js/main.81399ef3.js.map",
-    "453.670e15c7.chunk.js.map": "/reactemp/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/shivakantp.github.io/static/css/main.9cc29e20.css",
+    "main.js": "/shivakantp.github.io/static/js/main.17443adc.js",
+    "static/js/453.670e15c7.chunk.js": "/shivakantp.github.io/static/js/453.670e15c7.chunk.js",
+    "index.html": "/shivakantp.github.io/index.html",
+    "main.9cc29e20.css.map": "/shivakantp.github.io/static/css/main.9cc29e20.css.map",
+    "main.17443adc.js.map": "/shivakantp.github.io/static/js/main.17443adc.js.map",
+    "453.670e15c7.chunk.js.map": "/shivakantp.github.io/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cc29e20.css",
-    "static/js/main.81399ef3.js"
+    "static/js/main.17443adc.js"
   ]
 }
